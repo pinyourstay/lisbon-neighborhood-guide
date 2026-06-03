@@ -128,14 +128,6 @@ Südwestlich, am Tejo unter der Ponte 25 de Abril. LX Factory ist ein Areal aus 
 
 ---
 
-## Mitmachen
-
-Pull-Requests mit Ergänzungen willkommen:
-
-- Quelle deiner Einschätzung kurz nennen (eigene Reise, Reiseführer, Lokal-Kontakt).
-- Keine konkreten Apartment-Empfehlungen oder Preisangaben.
-- Keine politischen Wertungen.
-- Bei Verkehrs- und Tarif-Daten Verfügbarkeits-Datum angeben — diese Angaben veralten schnell.
 
 ## Lizenz
 
